@@ -1,7 +1,9 @@
 def main(msg):
     print(msg)
-    #yet another one
-    #Adding a different comment
+    #no longer need coments
+def sek():
+    print("heyo")
+    
 main("Hello world")
 
 main("Hello world")
